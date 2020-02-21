@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa2b81c-5403-46f5-8ae9-ea2acf074283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.10-phpforwp-starter/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.10-phpforwp-starter/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-completed/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.02-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.02-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-starter/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.02-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.02-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-completed/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.04-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.04-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-starter/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.08-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.04-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.04-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-completed/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.10-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.08-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-starter/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.12-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.08-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.08-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.12-phpforwp-starter/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.10-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-starter/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.10-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.10-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.12-phpforwp-starter/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.12-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.12-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.12-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-completed/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/1 - PHP for WordPress/1.14-phpforwp-starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-dev-course/1WordPress/1.14-phpforwp-starter/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/2 - Child and Starter Themes/2.03-twentyseventeen-child.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/2 - Child and Starter Themes/2.04-twentysixteen-child.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/2 - Child and Starter Themes/2.06-demo-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/2 - Child and Starter Themes/2.07-jointswp-starter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.02-setting-up-the-theme.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.03-style.css.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.04-functions.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.05-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.06-header.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.08-menu-and-header.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.09-adding-markup.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.10-sidebar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.11-widget-areas.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.12-the-loop.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.13-content-and-content-none.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.14-singular.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.15-single.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.17-comments.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.18-post-formats.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.19-home.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.20-archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.21-author.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.23-category.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.24-tag.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.25-date.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.26-attachment.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.27-mimetype.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.28-page.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.29-front-page.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.30-custom.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.31-404.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.32-search.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.33-archive-posttype.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.34-single-posttype.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.35-single-posttype-slug.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.36-taxonomy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.37-taxonomy-taxonomy-taxonomy-slug.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.38-additional-css.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/3 - Template Hierarchy/3.39-adding-javascript-to-a-theme.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.01-intro-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.04-general-login-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.06-general-archive-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.07-general-calendar-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.10-practice-general-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.11-navigation-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.15-practice-navigation-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.17-post-class-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.18-post-common-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.20-post-date-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.21-post-link-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.22-post-attachment-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.23-post-misc-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.26-practice-post-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.27-post-thumbnails-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.29-practice-thumbnails-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.30-links-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.32-practice-links-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.33-comment-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.34-common-comment-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.36-practice-comment-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.37-author-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.39-practice-author-tags-completed-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.42-sanitization-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.43-escaping-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/4 - Template Tags/4.44-localization-tags-wptags.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.03-action-hooks-demo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.05-action-hooks-wpfilter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.06-action-hooks-r-debug.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.07-action-hooks-debug-plugin.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.08-action-hooks-simply-show-hooks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.10-action-hooks-do_action-demo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.11-action-hooks-wp_enqueue_scripts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.12-action-hooks-widgets_init.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.13-action-hooks-loop_end.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.14-action-hooks-template_redirect.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.15-action-hooks-save_post.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.17-practice-action-hooks-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.21-filter-hooks-wpfilter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.26-filter-hooks-apply_filters.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.27-filter-hooks-the_title.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.28-filter-hooks-the_content.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.29-filter-hooks-excerpt_more.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.30-filter-hooks-body_class.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.31-filter-hooks-manage_posts_columns.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/5 - Action and Filter Hooks/5.33-practice-filter-hooks-completed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.00-plugin-theme.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.02.01-admin-footer-credits-simple.php.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.02.02-admin-footer-credits-folder.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.03-plugin-information-comment.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.04-plugin-settings-page.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.05-plugin-settings-subpage.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.06-plugin-settings-link.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.07-plugin-file-paths.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.08-enueuing-css.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.09-enueuing-js.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.10-conditional-enqueuing.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.12-practice-complete.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.13-options.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.14-options-array.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.16-practice-complete.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.17-settings-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.18-settings-sections.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.19-settings-field.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.20-more-settings-fields.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-dev-course/6 - Plugin Development/6.21-default-settings.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-dev-course" />
+  </component>
+  <component name="ProjectId" id="1Y7O9BGC107XfhSpzNjGv20v8FI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa2b81c-5403-46f5-8ae9-ea2acf074283" name="Default Changelist" comment="" />
+      <created>1582290011875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582290011875</updated>
+      <workItem from="1582290013334" duration="399000" />
+      <workItem from="1582290444733" duration="7719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="134" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582290406323">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="134" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1582290406323" />
+    <state x="460" y="141" width="424" height="513" key="FileChooserDialogImpl" timestamp="1582298814582">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="460" y="141" width="424" height="513" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582298814582" />
+    <state x="478" y="323" width="399" height="149" key="NewPhpFileDialog" timestamp="1582299056520">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="478" y="323" width="399" height="149" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1582299056520" />
+    <state x="172" y="32" key="SettingsEditor" timestamp="1582298882902">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582298882902" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582290445922">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582290445922" />
+    <state x="175" y="87" width="1006" height="621" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582290031543">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="175" y="87" width="1006" height="621" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1582290031543" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582298925988">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1582298925988" />
+  </component>
+</project>

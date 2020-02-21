@@ -1,0 +1,32 @@
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 9999:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: dams
+      WORDPRESS_DB_PASSWORD: dams123
+      WORDPRESS_DB_NAME: mywp
+    volumes:
+      - wordpress:/var/www/html
+      - ./wp-dev-course/1WordPress:/var/www/html/wp-content/themes
+
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: mywp
+      MYSQL_USER: dams
+      MYSQL_PASSWORD: dams123
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:
