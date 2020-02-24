@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Twenty twenty Child
+ Description:  Twenty twenty Child Theme
+ Author:       Damien Macors
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  mychildtw
+*/
+
+#site-footer{
+    background-color: aquamarine;
+}
